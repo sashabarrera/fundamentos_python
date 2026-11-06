@@ -101,4 +101,5 @@ print(total)
 nota1 = 6.0
 nota2 = 5.0
 nota3 = 7.0
-print()
+resultado = (nota1 + nota2 + nota3)
+print(resultado // 3)
